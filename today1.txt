@@ -1,0 +1,5 @@
+amdocs ipl
+amdocs hospital
+amdocs bank
+python 
+sql
