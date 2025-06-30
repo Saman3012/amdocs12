@@ -3,3 +3,4 @@ amdocs hospital
 amdocs bank
 python 
 sql
+def fun():bcz pinal mam told
